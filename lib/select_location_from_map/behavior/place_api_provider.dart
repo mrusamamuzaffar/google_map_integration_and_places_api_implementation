@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 
 class PlaceApiProvider with ConnectivityHandler{
   static String sessionToken = '';
-  static const apiKey = 'AIzaSyBTkuLuVTgLyz_obA6NZrnXvZ3bjEs3y7g';
+  static const apiKey = 'YOUR-API-KEY-HERE';
 
   Future<List<Suggestion>> fetchSuggestions(BuildContext context, {required String query,}) async {
     if (await checkForInternetServiceAvailability(context)) {
