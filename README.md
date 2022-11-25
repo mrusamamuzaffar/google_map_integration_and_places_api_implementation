@@ -4,6 +4,10 @@ This code snippet shows Google Maps integration in Flutter. we can do live track
 
 
 ✔️ Sound NullSafety
+✔️ Places API
+✔️ Search New Addresses (navigate on differenet location)
+✔️ Get Your Current Location
+
 
 ## GIF
 
