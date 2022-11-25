@@ -3,7 +3,7 @@
 This code snippet shows Google Maps integration in Flutter. we can do live tracking, show the markers, set the current location, search for the Places and navigate to those places. we can search for a specfic area, circle, raduis, country, this is the simple demo code, not the complete example.
 
 
-✔️ Sound NullSafety
+✔️ Sound NullSafety  \n
 ✔️ Places API
 ✔️ Search New Addresses (navigate on differenet location)
 ✔️ Get Your Current Location
