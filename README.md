@@ -17,3 +17,12 @@ This code snippet shows Google Maps integration in Flutter. we can do live track
     height=40%
     src="https://user-images.githubusercontent.com/101565812/204083195-1e8fdc2b-5ddc-4097-84a9-59755666dda8.gif" >
 </p>
+
+## Place API GIF
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/204083808-38fd6554-da2f-4a69-9034-beed345a420e.gif" >
+</p>
