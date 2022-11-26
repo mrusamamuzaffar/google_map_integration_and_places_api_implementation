@@ -15,5 +15,5 @@ This code snippet shows Google Maps integration in Flutter. we can do live track
   <img 
     width=40%
     height=40%
-    src="https://user-images.githubusercontent.com/101565812/203748952-6181e631-8e47-46e2-9906-e0b74bd0fa59.gif" >
+    src="https://user-images.githubusercontent.com/101565812/204083195-1e8fdc2b-5ddc-4097-84a9-59755666dda8.gif" >
 </p>
