@@ -5,7 +5,7 @@ This code snippet shows Google Maps integration in Flutter. we can do live track
 ## Architechture
 ✔️ Clean Architechture <br />
 
-✔️ Sound NullSafety
+✔️ Sound NullSafety <br />
 ✔️ Places API <br />
 ✔️ Search New Addresses (navigate to differenet locations) <br />
 ✔️ Get Your Current Location <br />
@@ -34,8 +34,8 @@ This code snippet shows Google Maps integration in Flutter. we can do live track
 ## We can Inlcude
 ✔️ cusotm text <br />
 ✔️ custom images <br />
-✔️ cusotm markers <br />
-✔️ cusotm icons <br />
+✔️ custom markers <br />
+✔️ custom icons <br />
 ✔️ anything we want <br />
 ✔️ drag location marker from one place to another <br />
 
