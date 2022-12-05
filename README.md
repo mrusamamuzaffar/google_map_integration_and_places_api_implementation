@@ -29,7 +29,7 @@ This code snippet shows Google Maps integration in Flutter. we can do live track
     src="https://user-images.githubusercontent.com/101565812/204083808-38fd6554-da2f-4a69-9034-beed345a420e.gif" >
 </p>
 
-### This given below gif shows another demo the customiztion of Google Map in Flutter. we can include images, png, jps, icons, cars and navigate them on Google map.
+#### This given below gif shows another demo, the customiztions of Google Map in Flutter. we can include images, png, jps, icons, cars and navigate them on Google map. we can drag the location marker from one place to another place.
 
 ## We can Inlcude
 ✔️ cusotm text <br />
@@ -37,6 +37,7 @@ This code snippet shows Google Maps integration in Flutter. we can do live track
 ✔️ cusotm markers <br />
 ✔️ cusotm icons <br />
 ✔️ anything we want <br />
+✔️ drag location marker from one place to another <br />
 
 
 
