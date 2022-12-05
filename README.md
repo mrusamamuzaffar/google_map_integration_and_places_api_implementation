@@ -41,7 +41,7 @@ This code snippet shows Google Maps integration in Flutter. we can do live track
 
 
 
-## Train in Google Map GIF
+## Train in Google Map - GIF
 
 <p align="center">
   <img 
